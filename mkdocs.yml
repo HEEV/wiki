@@ -1,0 +1,4 @@
+site_name: CU Supermileage Docs
+nav:
+  - Home: index.md
+theme: readthedocs
