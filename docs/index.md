@@ -1,13 +1,10 @@
-# Welcome to MkDocs
+# Welcome to Cedarville Supermileage
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## Who We Are
+Cedarville Supermileage is a inter-disciplinary engineering team that builds hyper-efficient vehicles. We work on every part of the engineering process of all of our cars, from concept and construction, to refinement and driving, students are involved in every step. For the last couple decades, CU Supermileage has had many vehicles, with our most recent designs pictured below.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+
 
 ## Project layout
 
