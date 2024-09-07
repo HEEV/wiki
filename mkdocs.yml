@@ -1,4 +1,9 @@
 site_name: CU Supermileage Docs
 nav:
   - Home: index.md
+  - System Overview: system-overview.md
+  - Computer Setup: computer-setup.md
+  - Raspberry Pi: raspberry-pi.md
+  - Arduino: arduino.md
+  - Remote Servers: remote-servers.md
 theme: readthedocs

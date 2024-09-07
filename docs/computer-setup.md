@@ -1,0 +1,1 @@
+How to set up the computer to run in the car, including peripherals, screen, etc.
