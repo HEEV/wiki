@@ -1,5 +1,11 @@
-# System Overview
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+layout: page
+title: System Overview
+nav_order: 2
+---
 This page goes into the general details of what our computer systems do, how they integrate with the car, and what all parts are needed for it to work.  
 
 ## Why do we even need a Computer System?

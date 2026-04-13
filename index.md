@@ -1,3 +1,11 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+title: Home
+nav_order: 1
+---
 # Welcome to Cedarville Supermileage
 
 ## `WIP: This wiki is under construction, so please pardon the mess!`
@@ -10,4 +18,3 @@ Cedarville Supermileage is a inter-disciplinary engineering team that builds hyp
 ## Purpose of this Wiki
 This wiki is written to prevent the problem that has plagued the team for many years. Every time someone new comes in to manage the computer team, they often do not understand what previous people have done, forcing them to start from scratch. I would like to avoid knowledge leaving the team so quickly, and thus this wiki was born. It should, when complete, contain all of the information necessary to understand our computer system, and replicate it if needed.
 If something is wrong or missing, Zaine Fletcher is the author and would be happy to help with any issues in the wiki. You can reach him at his [email](mailto:zfletcher@cedarville.edu).
-
