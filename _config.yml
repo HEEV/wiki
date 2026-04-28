@@ -29,6 +29,14 @@ github_username:  heev
 theme: just-the-docs
 plugins:
   - jekyll-feed
+  - jekyll-resize
 include:
   - _images
   
+callouts:
+  warning:
+    title: Warning
+    color: red
+  info:
+    title: Info
+    color: blue
