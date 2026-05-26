@@ -48,7 +48,9 @@ If you are looking for more developer-level documentation, I recommend taking a 
 
 **[Driver Display Repository](https://github.com/HEEV/supermileage-display-web)**
 
-TBD
+The driver display built in React serves as the dashboard for the drivers to be able to see the status of the cars. It displays only the most vital information to the drivers to avoid distractions, with those things being speed, windspeed, and simulation tracking. These three metrics allow the driver to optimize when they are burning the engine during the race.
+
+The display receives the vehicle data from the Python Server via a local socket connection.
 
 ### Python Server
 
@@ -66,4 +68,4 @@ Specifically, the destinations of the data can be broken down into 3 locations: 
 
 **[Arduino Firmware Repository](https://github.com/HEEV/NewArduinoSensorController)**
 
-TBD
+The firmware runs on our Arduino Nano, and serves to collect and condition all of the sensor inputs it could expect to take in, and packages it to send over the serial bus. Through a packed struct, it is able to fit 10 different input values into a 23 byte packet, which allows for higher throughput on the serial bus. See the repository README for more information on that packet.
