@@ -35,7 +35,7 @@ None of the above can happen unless the computer is receiving consistent power f
 This circuit takes in the 12 volt power coming from the car's battery, and converts it to a consistent 5v power that the computer can use. This part of the system is vital for the function of the computer. The computer connects to it using a built-in usb-a connection.
 
 * <u>Capacitor Bank</u>  
-When the car is started, the starter motor pulls a lot of amperage from the battery all at once. When this happens, a voltage drop occurs on the car's circuit, which can cause our computer to power cycle. To prevent this, the capacitor bank stores enough electricity to keep consistent power to the system during car start.
+When the gasoline car is started, the starter motor pulls a lot of amperage from the battery all at once. When this happens, a voltage drop occurs on the car's circuit, which can cause our computer to power cycle. To prevent this, the capacitor bank stores enough electricity to keep consistent power to the system during car start.
 
 
 ## Software

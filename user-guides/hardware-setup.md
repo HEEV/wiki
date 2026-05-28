@@ -19,7 +19,7 @@ You have to be sure you plug in all of the connections mentioned here, or you ma
 Each car has a different location that the computer is mounted. Here are the locations in the active cars.
 
 - **Karcharias:** Velcro mount above the driver's right shoulder
-- **Sting:** Aluminum mount to the right side of the battery box, on the engine compartment
+- **Sting:** Aluminum mount to the right side of the battery box, in the engine compartment
 
 #### Installation Steps
 
