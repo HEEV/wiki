@@ -52,7 +52,7 @@ In the current setup, when buttons are connected to the computer system, they re
 Different cars have different locations for the buttons. Discuss with the Electrical Team for which buttons and/or switches are connected for us.
 
 * **Karcharias:** in the left stearing control.
-* **Sting:** one of the switches in the center of the steering wheel serves this function.
+* **Sting:** one of the switches in the center of the steering wheel.
 
 ### Computer Box Setup
 
